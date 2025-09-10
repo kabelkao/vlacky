@@ -9,6 +9,11 @@ Cíl: Navrhnout lokomotivy pro dřevěné vláčkodráhy (Lidl, IKEA, BRIO) v ko
 - maximální vzdálenost soukolí vůči poloměrům zatáčení
 - nízká hmotnost lokomotivy při jízdě do kopce, nutno vyřešit závaží (ideálně studené olovo pro lití do 3D tištěných forem)
 
+## Neelektrické verze
+- čistě bez pohonu (defacto vagon)
+- setrvačník
+- natahovací (spíše ne)
+
 ## Motor
 - DC 3V/1000 RPM (musím prověřit že tento je ten co mi vyšel jako akorát rychlost/výkon) (https://techfun.cz/produkt/dc-motorek-s-prevodem-ruzne-typy/?attribute_pa_motor=3v-1000rpm)
 
