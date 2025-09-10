@@ -3,6 +3,10 @@
 
 Cíl: Navrhnout lokomotivy pro dřevěné vláčkodráhy (Lidl, IKEA, BRIO) v kombinaci 3D tisku a jednoduché elektroniky. Případně i s variantou elektro pohonu.
 
+## Design
+- universální podvozek a střeva
+- kastle podle vlaků, ale měřítkově zmršené ve stylu "eggplanes"
+
 ## Geometrie
 - maximální průjezdný profil, vč. mostů
 - minimální směrový oblouk (vč. 3D tištěných kolejnic s malým poloměrem)
@@ -67,3 +71,6 @@ Cíl: Navrhnout lokomotivy pro dřevěné vláčkodráhy (Lidl, IKEA, BRIO) v ko
 
 ## Nádraží/zastávka
 - 3D tištěný domeček s IR diodou která zastaví vlak a třeba časovačem který vlak pustí, nebo ovládání na tlačítko pro vyslání signálu
+
+# Inspirace
+- https://3dvlacky.cz/galerie
