@@ -72,5 +72,8 @@ Cíl: Navrhnout lokomotivy pro dřevěné vláčkodráhy (Lidl, IKEA, BRIO) v ko
 ## Nádraží/zastávka
 - 3D tištěný domeček s IR diodou která zastaví vlak a třeba časovačem který vlak pustí, nebo ovládání na tlačítko pro vyslání signálu
 
+## Výhybky
+- 3D tištěná výhybka a dálkovým ovládání, nebo automatické přehození (změna) po přejetí
+
 # Inspirace
 - https://3dvlacky.cz/galerie
