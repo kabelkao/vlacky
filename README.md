@@ -16,6 +16,9 @@ Cíl: Navrhnout lokomotivy pro dřevěné vláčkodráhy (Lidl, IKEA, BRIO) v ko
 - čelní kolo ozubené na osu
 - šnek na hřídel motoru
 
+## Kola
+- běhouny nebo celá kola z TPU/TPE/Flex jinak to nejede do kopce
+
 ## Osy
 - Pojezdy.EU, rozměry dohledat
 
