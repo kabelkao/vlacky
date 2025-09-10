@@ -76,4 +76,4 @@ Cíl: Navrhnout lokomotivy pro dřevěné vláčkodráhy (Lidl, IKEA, BRIO) v ko
 - 3D tištěná výhybka a dálkovým ovládání, nebo automatické přehození (změna) po přejetí
 
 # Inspirace
-- https://3dvlacky.cz/galerie
+- https://3dvlacky.cz/galerie (jednoduché řešení především pro geometrii podvozku)
