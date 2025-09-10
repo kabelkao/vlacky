@@ -8,6 +8,7 @@ Cíl: Navrhnout lokomotivy pro dřevěné vláčkodráhy (Lidl, IKEA, BRIO) v ko
 - minimální směrový oblouk (vč. 3D tištěných kolejnic s malým poloměrem)
 - maximální vzdálenost soukolí vůči poloměrům zatáčení
 - nízká hmotnost lokomotivy při jízdě do kopce, nutno vyřešit závaží (ideálně studené olovo pro lití do 3D tištěných forem)
+- pro dlouhé lokomotivy je problém s geometrií a je třeba udělat dva samostatné podvozky
 
 ## Neelektrické verze
 - čistě bez pohonu (defacto vagon)
@@ -39,6 +40,7 @@ Cíl: Navrhnout lokomotivy pro dřevěné vláčkodráhy (Lidl, IKEA, BRIO) v ko
 - Integrace ESP32?
 - Local webpage pro řízení více lokomotiv dle ID?
 - Vlastní ovládací pult pro více lokomotiv?
+- IR dioda a obecný ovladač
 
 ## Osvětlení
 - LED diody (pokud bude řízení směru tak i RGB?)
@@ -58,3 +60,10 @@ Cíl: Navrhnout lokomotivy pro dřevěné vláčkodráhy (Lidl, IKEA, BRIO) v ko
 
 ## TODO list
 - prověřit komplet geometrii kolejí a vláčků
+# Příslušenství
+
+## Přejezd
+- 3D tištěný přejezd se závorami a výstrašným světlem, napájení  velkou Lipol, serva na závody, detekce vlaku magnetickcým spínačem
+
+## Nádraží/zastávka
+- 3D tištěný domeček s IR diodou která zastaví vlak a třeba časovačem který vlak pustí, nebo ovládání na tlačítko pro vyslání signálu
