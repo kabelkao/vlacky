@@ -3,8 +3,14 @@
 ## Profil koleje
 
 ## Zatáčky
-- vnitřní poloměr 182mm
-- vnější poloměr  222mm
+### Velká E (4 do půl kruhu)
+- vnitřní poloměr 182 mm
+- vnější poloměr  222 mm
+- osový poloměr 202 mm
+
+### Malá E1
+
+
 
 
 # Vlaky
@@ -13,4 +19,12 @@
 - průměr 20,5 mm
 - šířka 2,5 mm se zkosením 0,5 na vnějším okraji
 - rozchod kol 24,0 mm mezi koly
-- rozchod kol 26,5 mm na osu
+- rozchod kol 26,0 mm na osu
+- rozvor kol 43,0 mm
+- max. rozvor kol 50,0 mm
+- min. rozvor kol 35,0 mm
+- průměr osy 2,0 mm
+- délka osy 30,0 mm
+
+## Testovací podvozek
+
